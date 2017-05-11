@@ -1,0 +1,22 @@
+body{background-color:#D96459; color:white; font-family:Segoe UI; font-size:18px;}
+
+
+h1 {font-family:Segoe UI; text-align:center; color:black;}
+
+
+nav{font-family:Segoe UI; text-align:center; color:#D94E67;text-align:center;background-color: rgba(232,232,237,0.5);
+line-height:40px; width:90%; margin-left:85px;}
+
+
+a {padding:5px; text-decoration:none;font-size: 17px; color:black; border-right:1px solid black;
+ padding-left:10px;padding-right:10px}
+
+
+p {font-family:Segoe UI; text-align:center; color:#D94E67;}
+
+section {background-color: rgba(232,232,237,0.8); font-size:18px;color:black; width:75%; float:right;margin-right:15px; margin-top:20px; text-align:justify; padding:20px; }
+
+left {background-color: rgba(232,232,237,0.8); font-size:18px;color:black; width:7%; float:left;margin-left:84px; margin-top:20px; text-align:justify; padding:10px; }
+
+
+
